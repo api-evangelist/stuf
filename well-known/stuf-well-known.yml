@@ -1,0 +1,88 @@
+generated: '2026-08-29'
+method: probed
+description: >-
+  Results of probing the /.well-known/ discovery surface for every host Stuf
+  Storage operates. Stuf publishes no API and therefore no apis[].baseURL or
+  OpenAPI servers[] host exists; the hosts probed are the marketing/booking site
+  (www.stufstorage.com and the apex stufstorage.com), the Zendesk-hosted member
+  help center, and the two Sanity/Webflow-style content subdomains named in the
+  site's own Content-Security-Policy. NO /.well-known/ path returned a real
+  document on any host, so no WellKnown or SecurityTxt pointer is emitted in
+  apis.yml — this file records a verified absence, not a presence.
+  blog.stufstorage.com answers HTTP 200 with a text/html Next.js shell for every
+  path including nonexistent ones, so its 200s are soft-404s and are recorded
+  as present-but-not-a-real-document rather than as hits.
+source: https://www.stufstorage.com/
+hosts:
+  - host: https://www.stufstorage.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+      - path: /.well-known/mcp.json
+        status: 404
+      - path: /.well-known/apple-app-site-association
+        status: 404
+  - host: https://stufstorage.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+  - host: https://support.stufstorage.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+        note: Zendesk-hosted member help center; returns the Zendesk 404 page.
+  - host: https://blog.stufstorage.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 200
+        type: text/html
+        note: >-
+          Soft-404. Body is a Next.js HTML shell, not an RFC 9116 document. Every
+          path on this host returns 200 with the same shell, including /llms.txt.
+          Recorded as not-a-document; nothing saved.
+      - path: /llms.txt
+        status: 200
+        type: text/html
+        note: Soft-404, same Next.js catch-all shell as above. Not saved.
+  - host: https://space.stufstorage.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: https://lp.stufstorage.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /llms.txt
+        status: 404
+x-notes:
+  - >-
+    The one machine-readable discovery document Stuf does serve is
+    https://www.stufstorage.com/llms.txt (HTTP 200, text/plain, 21,474 bytes,
+    self-declared Last-Updated 2026-08-13). It is saved verbatim to
+    llms/stuf-llms.txt and pointed at with type LLMsTxt.

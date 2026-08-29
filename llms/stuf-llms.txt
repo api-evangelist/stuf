@@ -1,0 +1,160 @@
+# Stuf Storage
+
+> Stuf is a next-generation self-storage company offering clean, secure, tech-enabled storage units in the neighborhoods where people live and work. Stuf partners with real estate owners to convert underutilized space in commercial buildings into modern storage facilities across 7 US metro areas: New York City, Los Angeles, the San Francisco Bay Area, Seattle, Atlanta, Boston, and Washington, DC. Members book online in minutes, pay month-to-month with no hidden fees, and access their unit with a digital key.
+
+Stuf serves storage seekers (residents, small businesses, and students) looking for convenient self-storage near home or work, and commercial property owners looking to monetize underutilized space such as basements, garages, and retail vacancies.
+
+Stuf operates **36 storage facilities** across those 7 metros. Every facility is listed below with the name used on its Google Business Profile and location page, its street address, and the nearest transit and cross streets.
+
+**About this file.** This `llms.txt` provides a structured overview of Stuf Storage's services, locations, pricing model, and official resources to support accurate AI interpretation and citation. Per the llms.txt specification the sections below contain only links; all narrative detail is in this preamble.
+
+- Site: <https://www.stufstorage.com>
+- Canonical: <https://www.stufstorage.com>
+- Last-Updated: `2026-08-13`
+
+**How booking works.** Stuf storage is booked entirely online: search available units by location, reserve, and move in with a digital key. Reserving a unit requires a $20 hold, which is applied to the first invoice and is fully refundable up to 48 hours before the selected move-in date. Move-in is available as soon as the next day. The first payment is due on move-in day, and subsequent payments are due on the first of each month. Leases are month-to-month with no long-term commitment. Quoted rates include a complimentary lock, taxes, and cleaning and storage fees — no hidden or additional fees. Storage insurance is required: purchase coverage through Stuf or provide proof of your own insurance before move-in.
+
+**How does move-in and access work?** After booking, the Stuf team confirms the reservation within 24–48 hours. Members unlock facility doors with a digital key from their Member Dashboard on a mobile device; every unit comes pre-locked with a complimentary combination lock whose code is stored in the dashboard. Access hours vary by location and are listed on each location's page.
+
+**How do cancellation and move-out work?** Reservations can be cancelled without penalty up to 48 hours before the move-in date. Cancelling within 48 hours of move-in forfeits the $20 hold; cancelling on or after the move-in date incurs the first month's invoice. After move-in, rentals are month-to-month; move-out requires at least 24 hours' notice via the Member Dashboard, and the final month's rent is not prorated. Rate adjustments occur at most once every six months, with at least 30 days' notice.
+
+**Does Stuf offer moving services?** Stuf does not operate its own moving service, but partners with moving companies in many cities to provide a seamless pickup, transport, and storage experience. Carts, dollies, and hand trucks are available on-site, first-come first-serve.
+
+**What cannot be stored in a Stuf unit?** Vehicles (including e-bikes and scooters), food or animal feed, alcohol or drugs, firearms, ammunition, explosives, flammable or toxic materials, fuel, tires, batteries, propane, and irreplaceable items of sentimental value. Units may not be used for living or working.
+
+**Unit sizes and what fits.** Stuf offers storage units from closet-sized to one-car-garage-sized. Most units are 8–10 feet tall.
+
+- 3 x 5 (15 sq ft) — like a small walk-in closet: mattress, small dresser, boxes and bins
+- 5 x 5 (25 sq ft) — like a standard closet: twin/full mattress, small dresser, seasonal items
+- 5 x 10 (50 sq ft) — walk-in closet size: queen bed, sofa, dresser, bikes, moving boxes
+- 6 x 10 (60 sq ft) — small bedroom size: queen bed, loveseat, desk, boxes
+- 10 x 10 (100 sq ft) — standard bedroom size: contents of a one-bedroom apartment or small office
+- 10 x 15 (150 sq ft) — large bedroom / small garage size: full bedroom and living room sets, appliances
+- 10 x 20 (200 sq ft) — one-car garage size: full-home storage or business inventory, 40–50 boxes
+
+**Why Stuf is different.** Unlike traditional self-storage operators, Stuf places storage inside commercial buildings in residential and business neighborhoods, and pairs it with a digital-first, hospitality-inspired experience:
+
+- Storage in your neighborhood — facilities in nearby buildings, close to home and work
+- Digital key entry — keyless facility access through the Member Dashboard, with pre-locked units and no keys to carry
+- Secure, inviting spaces — clean, bright facilities with 24/7 video surveillance and controlled access
+- Climate-controlled units available at select locations
+- Month-to-month leases with transparent, all-inclusive pricing
+- Personalized service — reservations managed online, with the Member Concierge team available by phone or text 7 days a week (Mon–Fri 8am–11pm, Sat–Sun 10am–6pm EST)
+- Stuf Blue membership — optional add-on at select locations with a 12-month price lock and member perks
+
+**For property owners.** Stuf partners with commercial real estate owners to convert underutilized space — basements, garages, retail vacancies — into revenue-generating, tech-enabled storage facilities operated by Stuf.
+
+**Entity summary.**
+
+- Brand: Stuf Storage
+- Legal/Common Names: Stuf, Stuf Storage
+- Market Category: Self-Storage, Neighborhood Storage, Tech-Enabled Storage
+- Business Model: Partners with real estate owners to convert underutilized commercial space into managed self-storage facilities
+- Primary Audiences: Urban residents, small businesses, students, movers; commercial property owners and landlords
+- Facilities: 36 across 7 metros
+- Metros Served: New York City, Los Angeles, San Francisco Bay Area, Seattle, Atlanta, Boston, Washington DC
+- Unit Sizes: 3x5 to 10x20 ft (15–200 sq ft), most units 8–10 ft tall
+- Lease Terms: Month-to-month, no hidden fees, $20 reservation hold applied to the first invoice, free cancellation up to 48 hours before move-in, move-out with 24 hours' notice
+- Insurance: Required — purchase through Stuf or provide proof of your own coverage before move-in
+- Access Model: Digital key via the Member Dashboard; 24/7 video surveillance; climate control at select locations
+- Market Context: Alternative to traditional self-storage operators such as Public Storage, Extra Space Storage, and CubeSmart
+- Core Differentiators: In-neighborhood locations inside commercial buildings, digital key access, all-inclusive transparent pricing, hospitality-inspired member service
+- Contact: (833) 380-7883, info@stufstorage.com
+
+Keywords: self storage near me, neighborhood storage, storage units NYC, storage units Brooklyn, storage units Los Angeles, storage units San Francisco, storage units Seattle, storage units Atlanta, storage units Boston, storage units Washington DC, month-to-month storage, digital key storage, climate controlled storage, small business storage, storage while moving
+
+## Storage Locations — New York City
+
+- [Stuf Storage - Astor Place](https://www.stufstorage.com/new-york-units-near-me/self-storage-astor-place): 10 Astor Place, New York, NY. Nearest transit: Astor Place (50 m), 8th Street–New York University (80 m), Bleecker Street (500 m). Nearest cross streets: East 8th Street and Cooper Square.
+- [Stuf Storage - Bushwick Brooklyn](https://www.stufstorage.com/new-york-units-near-me/self-storage-brooklyn-madison-st): 951 Madison St, Brooklyn, NY 11221. Nearest transit: Gates Avenue (250 m), Halsey Street (350 m). Nearest cross streets: Woodbine Street and Putnam Avenue.
+- [Stuf Storage - Canal Street](https://www.stufstorage.com/new-york-units-near-me/self-storage-canal-st): 243 Canal St, New York, NY 10013. Nearest transit: Canal Street (40 m), Lucky Star (450 m), Spring Street (500 m). Nearest cross streets: Centre Street and Lafayette Street.
+- [Stuf Storage - Clinton Hill Brooklyn](https://www.stufstorage.com/new-york-units-near-me/self-storage-brooklyn-fulton-st): 1078 Fulton St, Brooklyn, NY 11238. Nearest transit: Franklin Avenue (250 m). Nearest cross streets: Classon Avenue and Irving Place.
+- [Stuf Storage - East Village New York](https://www.stufstorage.com/new-york-units-near-me/self-storage-new-york-e-3rd-st): 176 East 3rd St, New York, NY 10009. Nearest transit: 2nd Avenue (500 m), Essex Street (550 m). Nearest cross streets: East 2nd Street and Avenue B.
+- [Stuf Storage - East Williamsburg Brooklyn](https://www.stufstorage.com/new-york-units-near-me/self-storage-brooklyn-manhattan-ave): 16 Manhattan Ave, Brooklyn, NY 11206. Nearest transit: Lorimer Street (300 m), Flushing Avenue (600 m). Nearest cross streets: Varet Street and Cook Street.
+- [Stuf Storage - Financial District Lower Manhattan](https://www.stufstorage.com/new-york-units-near-me/self-storage-new-york-william-st): 47 William St, New York, NY 10005. Nearest transit: Wall Street (10 m), Broad Street (150 m), Rector Street (400 m). Nearest cross streets: Pine Street and Hanover Street.
+- [Stuf Storage - Greenpoint Brooklyn](https://www.stufstorage.com/new-york-units-near-me/self-storage-brooklyn-eckford-st): 65 Eckford St, Brooklyn, NY 11222. Nearest transit: Nassau Avenue (400 m). Nearest cross streets: Engert Avenue and Graham Avenue.
+- [Stuf Storage - Lincoln Center](https://www.stufstorage.com/new-york-units-near-me/self-storage-lincoln-center): 154 W 70th st, New York, NY 10023. Nearest transit: 72nd Street (250 m), 66th Street–Lincoln Center (400 m). Nearest cross streets: West 69th Street and Broadway.
+- [Stuf Storage - Long Island City Jackson East](https://www.stufstorage.com/new-york-units-near-me/self-storage-long-island-city-jackson-ave-east): 27-35 Jackson Ave, Long Island City, NY 11101. Nearest transit: Queens Plaza (300 m), Queensboro Plaza (300 m), Court Square–23rd Street (450 m). Nearest cross streets: Hunter Street and Queens Street.
+- [Stuf Storage - Long Island City Jackson West](https://www.stufstorage.com/new-york-units-near-me/self-storage-long-island-city-jackson-ave): 27-01 Jackson Ave, Long Island City, NY 11101. Nearest transit: Queens Plaza (100 m), Queensboro Plaza (300 m), Court Square (500 m). Nearest cross streets: Queens Plaza South and Orchard Street.
+- [Stuf Storage - Midtown West Penn Station](https://www.stufstorage.com/new-york-units-near-me/self-storage-new-york-36th-st): 265 W 36th St, New York, NY 10018. Nearest transit: 34th Street–Penn Station (250 m), New York Penn Station (350 m), Times Square–42nd Street (450 m). Nearest cross streets: West 37th Street and West 35th Street.
+- [Stuf Storage - Murray Hill New York](https://www.stufstorage.com/new-york-units-near-me/self-storage-new-york-32nd-st): 117 E 32nd St, New York, NY 10016. Nearest transit: 33rd Street (200 m), 28th Street (400 m). Nearest cross streets: Lexington Avenue and East 33rd Street.
+- [Stuf Storage - Park Slope Brooklyn](https://www.stufstorage.com/new-york-units-near-me/self-storage-brooklyn-5th-ave): 550 5th Ave, Brooklyn, NY 11215. Nearest transit: Prospect Avenue (300 m), 4th Avenue (500 m), 9th Street (550 m). Nearest cross streets: 15th Street and 16th Street.
+- [Stuf Storage - Prospect Heights Brooklyn](https://www.stufstorage.com/new-york-units-near-me/self-storage-brooklyn-clermont-ave): 485 Clermont Ave, Brooklyn, NY 11238. Nearest transit: Clinton–Washington Avenues (550 m), Lafayette Avenue (550 m). Nearest cross streets: Fulton Street and Vanderbilt Avenue.
+- [Stuf Storage - Prospect Park South](https://www.stufstorage.com/new-york-units-near-me/self-storage-prospect-park-south): 90 E 18th st, Brooklyn, NY. Nearest transit: Church Avenue (150 m), Beverley Road (550 m). Nearest cross streets: Church Avenue and East 19th Street.
+
+## Storage Locations — Los Angeles
+
+- [Stuf Storage - Eagle Rock Los Angeles](https://www.stufstorage.com/california-units-near-me/self-storage-los-angeles-w-ave-43): 3821 W Ave 43, Los Angeles, CA. Nearest cross streets: Eagle Rock Boulevard and El Paso Drive. No rail or metro station within 600 m; street and lot access.
+- [Stuf Storage - Glendale](https://www.stufstorage.com/california-units-near-me/self-storage-glendale-e-milford-st): 500 E Milford St, Glendale, CA 91206. Nearest cross street: North Brand Boulevard. No rail or metro station within 600 m; street and lot access.
+- [Stuf Storage - Koreatown Los Angeles](https://www.stufstorage.com/california-units-near-me/self-storage-los-angeles-s-ardmore-ave): 666 S Ardmore Ave, Los Angeles, CA 90010. Nearest transit: Wilshire/Normandie (100 m). Nearest cross streets: Wilshire Boulevard and South Kingsley Drive.
+- [Stuf Storage - Mid-City Los Angeles](https://www.stufstorage.com/california-units-near-me/self-storage-los-angeles-wilshire-blvd): 6300 Wilshire Blvd, Los Angeles, CA 90048. Nearest transit: Wilshire/Fairfax (500 m). Nearest cross streets: McCarthy Vista and Warner Drive.
+- [Stuf Storage - Miracle Mile Los Angeles](https://www.stufstorage.com/california-units-near-me/self-storage-los-angeles-5757-wilshire-blvd): 5757 Wilshire Blvd, Los Angeles, CA 90036. Nearest cross streets: Courtyard Place and South Curson Avenue. No rail or metro station within 600 m; street and lot access.
+- [Stuf Storage - Moving & Storage, Now Serving Pasadena](https://www.stufstorage.com/california-units-near-me/self-storage-pasadena-moving-and-storage): Stuf moving and storage hub serving Pasadena, CA. Pickup and transport service rather than a walk-in facility; contact the Member Concierge team for access details.
+
+## Storage Locations — San Francisco Bay Area
+
+- [Stuf Storage - Downtown Oakland](https://www.stufstorage.com/california-units-near-me/self-storage-oakland-16th-st): 521 16th St, Oakland, CA 94612. Nearest transit: 19th Street Oakland (300 m), Oakland City Center - 12th Street (300 m), Uptown Oakland Northbound (350 m). Nearest cross streets: San Pablo Avenue and 17th Street.
+- [Stuf Storage - Financial District San Francisco](https://www.stufstorage.com/california-units-near-me/self-storage-san-francisco-sansome-st): 115 Sansome St, San Francisco, CA 94104. Nearest transit: Montgomery Street (250 m), Embarcadero (400 m), Salesforce Transit Center (450 m). Nearest cross streets: Pine Street and Bush Street.
+- [Stuf Storage - North Beach San Francisco](https://www.stufstorage.com/california-units-near-me/self-storage-san-francisco-vallejo-st): 222 Vallejo St, San Francisco, CA 94111. Nearest cross streets: Battery Street and Green Street. No rail or metro station within 600 m; street and lot access.
+- [Stuf Storage - Union Square East San Francisco](https://www.stufstorage.com/california-units-near-me/self-storage-san-francisco-kearny-st): 133 Kearny St, San Francisco, CA. Nearest transit: Montgomery Street (250 m), Union Square/Market Street (350 m), Powell Street (550 m). Nearest cross streets: Post Street and Maiden Lane.
+- [Stuf Storage - Union Square West San Francisco](https://www.stufstorage.com/california-units-near-me/self-storage-san-francisco-sutter-st): 575 Sutter St, San Francisco, CA. Nearest transit: Union Square/Market Street (400 m), Powell Street (550 m). Nearest cross streets: Mason Street and Post Street.
+
+## Storage Locations — Washington, DC
+
+- [Stuf Storage - Bethesda](https://www.stufstorage.com/maryland-units-near-me/self-storage-bethesda-elm-st): 4137 Elm St, Bethesda, MD. Nearest transit: Bethesda (250 m), Bethesda Station Bus Bays (300 m). Nearest cross streets: Wisconsin Avenue and 47th Street.
+- [Stuf Storage - Chinatown Washington DC](https://www.stufstorage.com/district-of-columbia-units-near-me/self-storage-washington-dc-k-st-nw): 700 K St NW, Washington, DC 20001. Nearest transit: Gallery Place (300 m), Mount Vernon Square (450 m). Nearest cross streets: 7th Street Northwest and Massachusetts Avenue Northwest.
+- [Stuf Storage - Foggy Bottom Washington DC](https://www.stufstorage.com/district-of-columbia-units-near-me/self-storage-washington-dc-2021-k-st-nw): 2021 K St NW, Washington, DC 20006. Nearest transit: Foggy Bottom–GWU (450 m), Farragut West (500 m), Farragut North (550 m). Nearest cross streets: 20th Street Northwest and L Street Northwest.
+- [Stuf Storage - Georgetown Washington DC](https://www.stufstorage.com/district-of-columbia-units-near-me/self-storage-washington-dc-m-st-nw): 3270 M St NW, Washington, DC 20007. Nearest transit: Georgetown Ferry Landing (500 m). Nearest cross streets: 33rd Street Northwest and Grace Street Northwest.
+- [Stuf Storage - Metro Center Washington DC](https://www.stufstorage.com/district-of-columbia-units-near-me/self-storage-washington-dc-g-st-nw): 1325 G St, Washington, DC. Nearest transit: Metro Center (200 m), McPherson Square (300 m). Nearest cross streets: New York Avenue Northwest and 13th Street Northwest.
+
+## Storage Locations — Seattle
+
+- [Stuf Storage - Downtown Seattle](https://www.stufstorage.com/washington-units-near-me/self-storage-seattle-union-st): 401 Union St, Seattle, WA 98101. Nearest transit: Symphony (150 m), Westlake (300 m), Westlake Center (350 m). Nearest cross streets: University Street and 4th Avenue.
+- [Stuf Storage - Pioneer Square Seattle](https://www.stufstorage.com/washington-units-near-me/self-storage-seattle-2nd-ave-s): 220 2nd Ave S, Seattle, WA 98104. Nearest transit: Occidental Mall (200 m), Pioneer Square (250 m), International District/Chinatown (350 m). Nearest cross streets: 2nd Avenue Extension South and South Main Street.
+
+## Storage Locations — Atlanta
+
+- [Stuf Storage - West Midtown Atlanta](https://www.stufstorage.com/georgia-units-near-me/self-storage-atlanta-howell-mill-rd): 1170 Howell Mill Rd, Atlanta, GA 30318. Nearest cross street: 14th Street Northwest. No rail or metro station within 600 m; street and lot access.
+
+## Storage Locations — Boston
+
+- [Stuf Storage - Downtown Boston](https://www.stufstorage.com/massachusetts-units-near-me/self-storage-boston-court-sq): 37 Court Sq, Boston, MA. Nearest transit: Government Center (80 m), State (90 m), Haymarket (350 m). Nearest cross street: Tremont Street.
+
+## Metro & City Directories
+
+- [All Locations — Directory of every Stuf metro and city](https://www.stufstorage.com/locations)
+- [New York City Storage — Facilities in Manhattan, Brooklyn, and Long Island City](https://www.stufstorage.com/locations/new-york)
+- [Los Angeles Storage — Facilities in Los Angeles, Pasadena, and Glendale](https://www.stufstorage.com/locations/los-angeles)
+- [San Francisco Bay Area Storage — Facilities in San Francisco and Oakland](https://www.stufstorage.com/locations/san-francisco)
+- [Seattle Storage — Facilities in downtown Seattle](https://www.stufstorage.com/locations/seattle)
+- [Atlanta Storage — Facilities in Atlanta](https://www.stufstorage.com/locations/atlanta)
+- [Boston Storage — Facilities in Boston](https://www.stufstorage.com/locations/boston)
+- [Washington, DC Storage — Facilities in DC and Bethesda](https://www.stufstorage.com/locations/washington-dc)
+
+## Finding & Booking Storage
+
+- [All Locations — Browse Stuf metros and facilities to find storage near you](https://www.stufstorage.com/locations)
+- [Storage Unit Size Guide — Compare unit dimensions and what fits in each](https://www.stufstorage.com/sizing)
+- [Member Help Center — FAQs on access, billing, insurance, security, and move-out](https://support.stufstorage.com/hc/en-us/categories/45138030216340-Stuf-Storage-Member-Help-Center)
+- [Contact — Reach the Stuf Member Concierge team](https://www.stufstorage.com/contact)
+
+## For Property Owners
+
+- [Landlord Partnerships — How property owners monetize underutilized space with Stuf](https://www.stufstorage.com/landlord)
+
+## Company & Support
+
+- [Contact — Call or text (833) 380-7883, or email info@stufstorage.com](https://www.stufstorage.com/contact)
+- [Privacy Policy](https://www.stufstorage.com/privacy-policy)
+- [Terms of Service](https://www.stufstorage.com/terms-of-service)
+
+## Optional
+
+- [Blog — Storage tips, moving guides, cost breakdowns, and organization advice](https://www.stufstorage.com/blog)
+- [News — Stuf company news and press](https://www.stufstorage.com/news)
+- [Perks — Member discounts from partner brands](https://www.stufstorage.com/perks)
+- [Storage Contract Checklist — What to ask before signing a storage contract](https://www.stufstorage.com/blog/storage-tips/what-to-ask-before-signing-storage-contract)
+- [San Francisco Storage Costs — How much self storage costs in San Francisco (2026)](https://www.stufstorage.com/blog/city-guides/how-much-does-self-storage-cost-in-san-francisco)
+- [Sustainable Self-Storage — What sustainable self-storage looks like and why Stuf is built differently](https://www.stufstorage.com/blog/storage-tips/what-is-sustainable-self-storage)
+- [Seasonal Storage Rotation — A system to keep your home clutter-free](https://www.stufstorage.com/blog/home-organization/how-to-build-seasonal-storage-rotation-system)
+- [Storage Conversions — Top 10 cities leading self-storage conversions](https://www.stufstorage.com/blog/city-guides/top-cities-self-storage-conversions)

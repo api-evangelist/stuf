@@ -1,17 +1,36 @@
 aid: stuf
-name: Stuf
-description: 'Stuf is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+name: Stuf Storage
+description: >-
+  Stuf is a next-generation, tech-enabled self-storage operator that partners
+  with commercial real estate owners to convert underutilized space — basements,
+  garages and retail vacancies — into modern neighborhood storage facilities.
+  Stuf runs 36 facilities across seven US metros (New York City, Los Angeles,
+  the San Francisco Bay Area, Seattle, Atlanta, Boston and Washington, DC).
+  Members search and book units online, pay month-to-month with all-inclusive
+  pricing and no hidden fees, and open facility doors with a digital key issued
+  through the Stuf Member Dashboard. Stuf publishes no public developer program,
+  API, or machine-readable API contract; the one machine-readable surface it
+  does serve is a substantial, actively maintained llms.txt at
+  https://www.stufstorage.com/llms.txt, alongside an AI-crawler-permissive
+  robots.txt.
+image: https://www.stufstorage.com/stuf-family-move-in-og.jpg
 url: https://raw.githubusercontent.com/api-evangelist/stuf/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+x-tier: profiled
+x-tier-reason: enriched
 specificationVersion: '0.20'
 created: '2026-08-29'
 modified: '2026-08-29'
 tags:
 - Company
+- Self Storage
+- Real Estate
+- Proptech
+- Logistics
+- Consumer Marketplace
+- Urban Infrastructure
+- Internet of Things
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +38,47 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/stuf-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.stufstorage.com/
+- type: LLMsTxt
+  url: llms/stuf-llms.txt
+- type: Blog
+  url: https://www.stufstorage.com/blog
+- type: Support
+  url: https://support.stufstorage.com/hc/en-us/categories/45138030216340-Stuf-Storage-Member-Help-Center
+- type: GitHubOrganization
+  url: https://github.com/stuf-storage
+- type: TermsOfService
+  url: https://www.stufstorage.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.stufstorage.com/privacy-policy
+x-enrichment:
+  date: '2026-08-29'
+  status: minimal
+  artifacts_added: 5
+  pass: local-v1
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: >-
+    Stuf Storage is a consumer self-storage operator with no developer program of
+    any kind — /developers, /developer, /api, /docs, /api-docs, /openapi.json and
+    /swagger.json all return 404 on www.stufstorage.com, the sitemap lists no
+    developer or API page, no api./developer./docs. subdomain resolves in DNS, and
+    the github.com/stuf-storage organization is real but has zero public repos.
+  evidence:
+    - url: https://www.stufstorage.com/developers
+      status: 404
+    - url: https://www.stufstorage.com/openapi.json
+      status: 404
+    - url: https://www.stufstorage.com/.well-known/agent-card.json
+      status: 404
+    - url: https://api.stufstorage.com/
+      status: 0
+    - url: https://www.stufstorage.com/llms.txt
+      status: 200
+    - url: https://github.com/stuf-storage
+      status: 200
+  checked: '2026-08-29'

@@ -1,0 +1,61 @@
+generated: '2026-08-29'
+method: searched
+source: https://www.stufstorage.com/llms.txt
+description: >-
+  Stuf Storage publishes NO API plans, because it publishes no API. plan_count is
+  0 and no Plans pointer is wired into apis.yml. What Stuf does publish is a
+  consumer commercial model for renting physical storage units, recorded below
+  verbatim from the company's own llms.txt and site so a later run does not have
+  to re-probe. Unit rates themselves are dynamic and quoted per facility and per
+  unit size through the availability search at
+  https://www.stufstorage.com/search-available-units — there is no static rate
+  card page to capture.
+plan_count: 0
+plans: []
+x-consumer-commercial-model:
+  applies_to: physical self-storage unit rental (not an API)
+  lease_term: month-to-month, no long-term commitment
+  reservation_hold:
+    amount: 20
+    currency: USD
+    applied_to: first invoice
+    refundable_until: 48 hours before the selected move-in date
+  billing:
+    first_payment_due: move-in day
+    subsequent_payments_due: the 1st of each month
+    proration_on_move_out: none — the final month's rent is not prorated
+  included_in_quoted_rate:
+    - complimentary combination lock
+    - taxes
+    - cleaning and storage fees
+  hidden_fees: none advertised — pricing is stated as all-inclusive
+  insurance: >-
+    Required. Purchase coverage through Stuf or provide proof of your own
+    coverage before move-in.
+  rate_adjustments: >-
+    At most once every six months, with at least 30 days' notice.
+  cancellation:
+    before_48h_of_move_in: free
+    within_48h_of_move_in: forfeits the $20 hold
+    on_or_after_move_in_date: incurs the first month's invoice
+    after_move_in: month-to-month; 24 hours' notice via the Member Dashboard
+  add_ons:
+    - name: Stuf Blue
+      availability: select locations
+      terms: 12-month price lock plus member perks
+  unit_sizes:
+    - size: 3x5
+      sq_ft: 15
+    - size: 5x5
+      sq_ft: 25
+    - size: 5x10
+      sq_ft: 50
+    - size: 6x10
+      sq_ft: 60
+    - size: 10x10
+      sq_ft: 100
+    - size: 10x15
+      sq_ft: 150
+    - size: 10x20
+      sq_ft: 200
+  quote_surface: https://www.stufstorage.com/search-available-units

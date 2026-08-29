@@ -1,0 +1,23 @@
+generated: '2026-08-29'
+method: searched
+source: https://www.stufstorage.com/
+description: >-
+  Stuf Storage publishes no API, no developer documentation and no machine-readable
+  API contract, so there are no published rate limits, no documented rate-limit
+  response headers and no documented exhaustion status code. limit_count is 0 and
+  no RateLimits pointer is wired into apis.yml. This file records a verified
+  absence so a later run does not re-probe: the developer-surface paths
+  /developers, /developer, /api, /docs, /api-docs, /openapi.json and /swagger.json
+  all return HTTP 404 on www.stufstorage.com, and the sitemap lists no developer,
+  API or documentation page.
+limit_count: 0
+rate_limits: []
+x-crawler-policy:
+  source: https://www.stufstorage.com/robots.txt
+  status: 200
+  note: >-
+    The only machine-access policy Stuf publishes is robots.txt, which explicitly
+    names and ALLOWS the AI crawlers GPTBot, OAI-SearchBot, ClaudeBot,
+    PerplexityBot, Google-Extended and Applebot-Extended for search, answer
+    citation and training, disallowing only /dashboard and /booking/reserve. This
+    is a crawl policy, not an API rate limit.

@@ -1,4 +1,4 @@
-# Stuf
+# Stuf Storage
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,12 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stuf is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Stuf is a next-generation, tech-enabled self-storage operator that partners with commercial
+real estate owners to convert underutilized space — basements, garages and retail vacancies —
+into modern neighborhood storage facilities, running 36 facilities across seven US metros.
+Stuf publishes no public developer program, API, or machine-readable API contract; the one
+machine-readable surface it serves is an actively maintained `llms.txt`.
+
+- https://www.stufstorage.com/
+- https://www.stufstorage.com/llms.txt
+- https://github.com/stuf-storage
